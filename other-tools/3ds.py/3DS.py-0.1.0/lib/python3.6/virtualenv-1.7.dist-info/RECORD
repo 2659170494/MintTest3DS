@@ -1,0 +1,16 @@
+../../Scripts/virtualenv.exe,sha256=u57EHb7uPHIa9AbdCU1nSTrxvYalmBB5egzaMC8zmco,97155
+__pycache__/virtualenv.cpython-36.pyc,,
+virtualenv-1.7.dist-info/AUTHORS.txt,sha256=R5QjRsBoypAVaiNsrI3CMEt2JEL31w9_boY_O4Se8wg,392
+virtualenv-1.7.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+virtualenv-1.7.dist-info/LICENSE.txt,sha256=lBIp-yvWJzkXNZ1VfmmtEM2ikBxyiHgcojuq6be4hIo,1175
+virtualenv-1.7.dist-info/METADATA,sha256=tdKVKcobQfOYQPDVVWTQEClXI3_WbUBCM54RZaYC6aY,31009
+virtualenv-1.7.dist-info/RECORD,,
+virtualenv-1.7.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+virtualenv-1.7.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+virtualenv-1.7.dist-info/entry_points.txt,sha256=xk_MxkTeqiWRdKBTEe1uvBL66ZCnMeufQyOXnBdUyEs,47
+virtualenv-1.7.dist-info/top_level.txt,sha256=S3o2o0EDuQgoAzL5fq3yJvmfaSzlnF8tVfqgTLxqj1k,30
+virtualenv.py,sha256=TfyHO-6fZeMOH8wrQrcU0p99o6ct7FnIxUJYMy3ZbL4,90881
+virtualenv_support/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+virtualenv_support/__pycache__/__init__.cpython-36.pyc,,
+virtualenv_support/distribute-0.6.24.tar.gz,sha256=xh_enziMlgDrjuVL1xaAOcX7dPozQTi8Sc32psE0Fic,620771
+virtualenv_support/pip-1.0.2.tar.gz,sha256=pu2bNqrC8SHAGiyeAwep5NlDjRAKQH23AaxlR5ozNdI,105820

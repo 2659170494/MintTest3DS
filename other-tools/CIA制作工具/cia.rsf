@@ -1,0 +1,33 @@
+BasicInfo:
+  Title                  : "Title"
+  CompanyCode            : "00"
+  ProductCode            : "ProductCode"
+  ContentType            : Application # Application / SystemUpdate / Manual / Child / Trial
+  Logo                    : Nintendo # Nintendo / Licensed / Distributed / iQue / iQueForSystem
+ 
+TitleInfo:
+  UniqueId                : 0x0000
+  Category                : Application
+ 
+Option:
+  UseOnSD                : true # true if App is to be #installed to SD
+  EnableCompress          : true # Compresses exefs code
+  FreeProductCode        : true # Removes limitations on ProductCode
+  EnableCrypt            : true # Enables encryption for NCCH and CIA
+  MediaFootPadding        : false # If true CCI files are created with padding
+ 
+AccessControlInfo:
+  ExtSaveDataId: 0xb0000 # same as UniqueId
+  UseExtSaveData : true
+  SystemSaveDataId1: 0x00000000 # plaintext exheader
+  SystemSaveDataId2: 0x00000000 # plaintext exheader
+  OtherUserSaveDataId1: 0x00000 # plaintext exheader
+  OtherUserSaveDataId2: 0x00000 # plaintext exheader
+  OtherUserSaveDataId3: 0x00000 # plaintext exheader
+  UseOtherVariationSaveData : false
+ 
+SystemControlInfo:
+  SaveDataSize: 128K # plaintext exheader
+  RemasterVersion: 0000 # plaintext exheader
+  StackSize: 0x00010000 # plaintext exheader
+  JumpId: 0x0004000000000000 # plaintext exheader (<full UniqueID>L)

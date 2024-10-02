@@ -1,0 +1,3 @@
+cd C:\devkitPro\tools\bin\makerom-v0.18.3-win_x86_64
+makerom -f cia -o C:\Users\26591\Documents\MintTest3DS\MintTest3DS.cia -rsf C:\Users\26591\Documents\MintTest3DS\app.rsf -target t -exefslogo -elf C:\Users\26591\Documents\MintTest3DS\MintTest3DS.elf -icon C:\Users\26591\Documents\MintTest3DS\MintTest3DS.smdh -banner C:\Users\26591\Documents\MintTest3DS\banner.bin
+cd C:\Users\26591\Documents\MintTest3DS
